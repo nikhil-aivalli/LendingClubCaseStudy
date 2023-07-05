@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> In this project, we are working on applying the knowledge of Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default for the Lending Club using dataset which includes complete loan data for all loans issued by Lending Club through the time period 2007 t0 2011.
+> In this project, we are working on applying the knowledge of Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default for the Lending Club using dataset which includes complete loan data for all loans issued by Lending Club through the time period 2007 to 2011.
 
 
 ## Table of Contents
