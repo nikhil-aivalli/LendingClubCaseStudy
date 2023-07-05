@@ -55,7 +55,7 @@ In other words, **the company wants to understand the driving factors (or driver
 [Nikhil_Aivalli](https://www.linkedin.com/in/nikhil-aivalli/)
 
 ## Contact
-Created by [@nikhil-aivalli] - feel free to contact me!
+Created by [@nikhil-aivalli](https://github.com/nikhil-aivalli) - feel free to contact me!
 
 
 <!-- Optional -->
