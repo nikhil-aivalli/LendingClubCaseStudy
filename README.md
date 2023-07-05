@@ -1,51 +1,38 @@
-# Lending Club Case Study
-> In this project, we are working on applying the knowledge of Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default for the Lending Club using dataset which includes complete loan data for all loans issued by Lending Club through the time period 2007 t0 2011.
+# Project Name
+> Outline a brief description of your project.
 
 
 ## Table of Contents
-* [Problem Statement](#Problem Statement)
-* [Business Objective](#Business Objective)
-* [Analysis Approach](#Analysis Approach)
-* [Technologies Used](#Technologies Used)
-* [Team](#Technologies Used)
-* [Technologies Used](#Technologies Used)
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
-## Problem Statement
-LendingClub is an online peer-to-peer lending platform that connects borrowers and investors.The platform operates as an intermediary, facilitating loans between individual borrowers and investors who are seeking to earn interest on their funds.
+<!-- You can include any other section that is pertinent to your problem -->
 
-Borrowers who are seeking personal loans can apply for loans through LendingClub's website. The platform evaluates the creditworthiness of the applicants using various factors, including credit history, income, and debt-to-income ratio. Approved borrowers are then assigned an interest rate based on their credit profile.
+## General Information
+- Provide general information about your project here.
+- What is the background of your project?
+- What is the business probem that your project is trying to solve?
+- What is the dataset that is being used?
 
-Two types of risks associated with the Lending Club’s decision:
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
-If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
-Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+## Conclusions
+- Conclusion 1 from the analysis
+- Conclusion 2 from the analysis
+- Conclusion 3 from the analysis
+- Conclusion 4 from the analysis
 
-## Business Objective
-The goal is to identify these risky loan applicants, then risky loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
-
-Data Set : Loan Lending Club loans dataset provided through the time period 2007 t0 2011.
-
-## Analysis Approach
-1.Importing required libraries & loading data
-2.Basic data understanding
-3.Data Cleaning
-4.Derived Columns
-5.Univariate Analysis
-6.Bivariate Analysis
-7.Conclusion
 
 ## Technologies Used
+- library - version 1.0
+- library - version 2.0
+- library - version 3.0
 
-Python - Version 3.9.13
-numpy - Version 1.21.5
-pandas - Version 1.4.4
-matplotlib - Version 3.5.2
-seaborn - Version 0.11.2
-Jupyter Notebook - Version 6.4.12
-Anaconda - Version 2.3.2
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
